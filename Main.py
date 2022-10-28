@@ -6,7 +6,7 @@ import os
 
 os.system ('cls')
 
-size = enter('Введите размер списка: ')
+size = enter('Enter the size of the list: ')
 min_value = enter('Enter the minimum possible value for the first element: ')
 max_value = enter('Enter the maximum possible value for the first element: ')
 
